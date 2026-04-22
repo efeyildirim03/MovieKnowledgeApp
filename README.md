@@ -60,7 +60,6 @@ git clone https://github.com/efeyildirim03/MovieKnowledgeApp.git
 
 This app uses the [OMDB API](https://www.omdbapi.com/) to fetch movie data.
 
-> ⚠️ Move the API key to `local.properties` before making the repository public.
 
 ---
 
